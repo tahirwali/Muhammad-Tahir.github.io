@@ -1,22 +1,16 @@
 ---
 layout: home2
 title: 
-description: "Saeed Anwar's website"
+description: "Muhammad Tahir's website"
 tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 I am 
-* <strong>Assistant Professor </strong> at Information and Computer Science, King Fahad University of Petroleum & Minerals ([KFUPM](http://www.kfupm.edu.sa/)) 
-* <strong>Honorary Faculty </strong> at College of Engineering & Computer Science, Australian National University ([ANU](https://www.anu.edu.au/))
-* <strong>Visiting Fellow</strong> at Faculty of Engineering and Information Technology, University of Technology Sydney ([UTS](https://www.uts.edu.au/))
-* <strong>Adjunct Assistant Professor</strong> at Faculty of Science and Technology, University of Canberra ([UC](https://www.canberra.edu.au/))
+* <strong>Associate Professor </strong> at College of Computing and Informatics, Saudi Electronic University, Riyadh, Saudi Arabia [SEU](http://www.seu.edu.sa/).
 
+* <strong>Academic Experience</strong>: I have worked as Lecture at the Department of Computer Science, FAST-National University of Computer and Emerging Sciences, [NUCES](https://www.nu.edu.pk/) from 2013-2014. I joined Department of Computer Science, City University of Science and Information Technology [CUSIT] (https://cityuniversity.edu.pk/) as Lecturer in July 2014 and promoted to Assistant Professor in September 2014. I was Head Department of Computer Science, CUSIT from January 2014 to July 2015. I worked as Assistant Professor in the College of Computing and Informatics, Saudi Electronic University, Riyadh, Saudi Arabia ([SEU](http://www.seu.edu.sa/) from August 2015 to December 2021.
 
-<strong>Industrial Experience</strong>: I was Research Scientist with the Efficient Computer Vision Group at [Data61](http://www.data61.csiro.au/), [CSIRO](http://www.csiro.au/) (Commonwealth Scientific and Industrial Research Organisation) Australia, from 2018-2023. I have also worked with National ICT Australia (NICTA), Australia, during 2014-2018. Previously, I was with TMVSE (Toshiba Medical Visualization Systems Europe), Scotland and Pal Robotics, Barcelona, Spain. I worked with PTCL (Pakistan Telecommunication Limited), Pakistan, during my undergraduate.
-
-<strong>Academic Experience</strong>: I was a computer engineer at Faculty Of Computer Sciences and Engineering, [GIKI](https://giki.edu.pk/) (Ghulam Ishaq Khan Institute of Engineering Sciences and Technology) from 2008-2010. I have worked as an Assistant Professor in the Department of Computer Science, [NUCES](https://www.nu.edu.pk/) (National University of Computer and Emerging Sciences) from 2012-2018. During my Ph.D. studies, I taught at Australian National University as a tutor and lecturer at the University of Canberra from 2014-2018.
-
-<strong>Education:</strong>I completed my PhD at College of Engineering & Computer Science ([CECS](https://cecs.anu.edu.au/)), Australian National University  (ANU) and the Computer Vision Research Group (CVRG) at [Data61](http://www.data61.csiro.au/) (previously known as NICTA), [CSIRO](http://www.csiro.au/). Previously, I completed my MS in Computer Vision and Robotics from [The Heriot-Watt University, University of Girona, and the University of Bourgogne](http://www.vibot.org/) (vibot). I have completed my MS thesis at Toshiba Medical Visualization Systems Europe ([TMVSE](https://www.linkedin.com/company/toshiba-medical-visualization-systems-europe-ltd)). My B.Sc is in Computer Systems Engineering from the University of Engineering and Technology ([UET](https://www.uetpeshawar.edu.pk/)), Peshawar.
+* <strong>Education:</strong>I completed my PhD at Department of Computer and Information Sciences, Pakistan Institute of Engineering and Applied Sciences [PIEAS](http://www.pieas.edu.pk/), Islamabad, in 2014. Prior to that I completed my MS in Computer Science from the Department of Computer Science, FAST-National University of Computer and Emerging Sciences, [NUCES](https://www.nu.edu.pk/) in 2009.
 
 ---
 ### Full Ph.D. scholarships available
